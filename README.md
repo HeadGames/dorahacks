@@ -10,3 +10,7 @@
 
 # Head Kart - https://drive.google.com/file/d/1oEFds4eJ9dmW5wwpOxgJHZtunJhm2RSg/view?usp=share_link
 
+
+# PITCH DECK - https://drive.google.com/file/d/1RH6LETCRakN4kNvo9I8oSH-H0LjBpIC-/view?usp=share_link
+
+
