@@ -13,4 +13,11 @@
 
 # PITCH DECK - https://drive.google.com/file/d/1RH6LETCRakN4kNvo9I8oSH-H0LjBpIC-/view?usp=share_link
 
+# LOGIN CREDENTIALS
+test6@headgames.io    test6
+test7@headgames.io    test7
+test8@headgames.io    test8
+test9@headgames.io    test9
+test10@headgames.io   test10
+
 
