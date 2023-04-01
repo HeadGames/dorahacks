@@ -1,5 +1,12 @@
 # DORAHACKS
 
+# PITCH DECK - https://drive.google.com/file/d/1RH6LETCRakN4kNvo9I8oSH-H0LjBpIC-/view?usp=share_link
+
+# WHITEPAPER - https://whitepaper.headgames.io
+
+
+# LINKTREE -   https://linktr.ee/HeadGamesOfficial
+
 # TRAILERS
 
 # Head Survivor - https://youtu.be/1keA2RaAQP0
@@ -10,8 +17,6 @@
 
 # Head Kart - https://drive.google.com/file/d/1oEFds4eJ9dmW5wwpOxgJHZtunJhm2RSg/view?usp=share_link
 
-
-# PITCH DECK - https://drive.google.com/file/d/1RH6LETCRakN4kNvo9I8oSH-H0LjBpIC-/view?usp=share_link
 
 # LOGIN CREDENTIALS
 test6@headgames.io    test6
